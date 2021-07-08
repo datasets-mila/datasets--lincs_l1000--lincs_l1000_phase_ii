@@ -1,6 +1,6 @@
-######################
-LINCS - Phase II L1000
-######################
+################################
+LINCS - Phase II L1000 - EXTRACT
+################################
 
 `<https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE70138>`_
 
@@ -27,3 +27,5 @@ Data
 ****
 
 `<https://docs.google.com/document/d/1q2gciWRhVCAAnlvF2iRLuJ7whrGP6QjpsCMq1yWz7dU>`_
+
+.. note:: This variation contains only the extracted data from ``*.tar.gz``
